@@ -1,0 +1,11 @@
+.container {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.output {
+    color: #657082;
+    border-bottom: 1px solid grey;
+
+    padding: 5px;
+}
